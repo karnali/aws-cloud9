@@ -2,16 +2,16 @@
 aws-cloud9 resize volume
 
 
-#### Orginal disk size and ls
+#### Orginal disk size and ls. 
 ![Orginal size and ls](img/img1.png)
 
-#### Expand. 
+#### Expand.   
 '''
 sh resize.sh 13
 '''
 ![reszies](img/img2.png)
 
-#### Expanded volume. 
+#### Expanded volume.   
 ![newsize](img/img3.png)
 
 
