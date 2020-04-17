@@ -8,9 +8,9 @@ aws-cloud9 resize volume
 
 #### Expand.   
 
-'''
+```
 sh resize.sh 13
-'''
+```
 ![reszies](img/img2.png)
 
 #### Expanded volume.   
